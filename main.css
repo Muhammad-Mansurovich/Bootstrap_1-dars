@@ -1,0 +1,24 @@
+.container-color{
+    background-color: #ce4a2a;
+    color: white;
+}
+.row-color{
+    background-color: #ca624f;
+}
+.col-margin-right{
+    border: 1px solid white;
+    padding-top: 20px;
+    height: 70px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.col-width{
+    border: 1px solid white;
+    padding-top: 20px;
+    height: 70px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-bottom: 15px;
+}
+

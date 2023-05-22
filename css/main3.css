@@ -1,0 +1,17 @@
+.container-color{
+    color: #cccccc;
+    font-size: 15px;
+    border-radius: 10px;
+}
+.row-color{
+    background-color: #fd6534;
+
+}
+.col-width{
+    border: 10px solid white;
+    height: 55px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
+}

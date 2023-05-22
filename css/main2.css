@@ -1,0 +1,17 @@
+.container-color{
+    color: #5f4eb5;
+    font-size: 15px;
+}
+.row-color{
+    background-color: #9783fb;
+}
+.col-width{
+    border: 3px solid white;
+    padding-top: 10px;
+    height: 50px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.first-text{
+    color: black;
+}
